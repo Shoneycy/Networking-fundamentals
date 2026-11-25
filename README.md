@@ -4,7 +4,7 @@ rather than relying on automated scanning tools,this reository focuses on genera
 #### Repository structure 
 * **notes/**-conceptual summaries  of the  TCP/IP model and DNS resolution.
 * **labs/01-tcp-handshake/-** capturing and analyzing the tcp three way  handshake(SYN,SYN-ACK,ACK)
-* **labs/02-open-vs-closed-ports/-** comparing  how a target responds to open(SYH-ACK) vs closed (RST) ports.
+* **labs/02-open-vs-closed-ports/-** comparing  how a target responds to open(SYN-ACK) vs closed (RST) ports.
 * **labs/o3-dns/-** Inspecting DNS queries,responses,record types,and TTL values.
 * **labs/04-ping-traceroutes/-** analyzing ICMP echo requests/reolies and tracing network hops
 #### Lab Environment & Tools
